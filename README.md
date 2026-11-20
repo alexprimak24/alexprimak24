@@ -39,7 +39,7 @@ I'm a **product-minded software engineer** who enjoys building things end to end
       <a href="assets/resheno/landing.jpg"><img src="assets/resheno-preview.jpg" alt="Resheno home-services marketplace preview" width="100%"></a>
       <h3><a href="assets/resheno/landing.jpg">Resheno</a></h3>
       <p>A home-services marketplace that connects customers with local professionals in Bulgaria.</p>
-      <p><strong>Stack:</strong> <code>Go/chi</code> <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>GCP</code> <code>AWS S3</code></p>
+      <p><strong>Stack:</strong> <code>Go/Chi</code> <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>GCP</code> <code>AWS S3</code></p>
       <p>
         <a href="assets/resheno/landing.jpg"><img alt="Screenshot 1" src="https://img.shields.io/badge/Screenshot_1-262C33?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
         <a href="assets/resheno/admin-dashboard.jpg"><img alt="Screenshot 2" src="https://img.shields.io/badge/Screenshot_2-262C33?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
