@@ -53,7 +53,7 @@ I'm a **product-minded software engineer** who enjoys building things end to end
 
 ## Open Source
 
-- <a href="https://github.com/FuelLabs/sway-playground/pull/83"><img src="assets/icons/git-merge-purple.png" alt="Merged pull request" width="18" height="18"></a> **[Fuel Labs - Sway Playground - Dark Theme (PR #83)](https://github.com/FuelLabs/sway-playground/pull/83)** - added shared theme state, system-preference detection, and dark-theme support for the editor and UI.
+- <a href="https://github.com/FuelLabs/sway-playground/pull/83"><img src="assets/icons/git-merge.png" alt="Merged pull request" width="18" height="18"></a> **[Fuel Labs - Sway Playground - Dark Theme (PR #83)](https://github.com/FuelLabs/sway-playground/pull/83)** - added shared theme state, system-preference detection, and dark-theme support for the editor and UI.
 
 ## Tech Stack
 
