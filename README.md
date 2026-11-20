@@ -24,61 +24,30 @@ I'm a **product-minded software engineer** who enjoys building things end to end
 
 <img src="assets/icons/section-accent.svg" alt="" width="88" height="6">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://apps.apple.com/ua/app/beauty-ally/id6749963321">
-        <img src="assets/beauty-ally-preview.jpg" alt="Beauty Ally skincare app preview" width="100%">
-      </a>
-      <h2>Beauty Ally</h2>
-      <img src="assets/icons/section-accent.svg" alt="" width="54" height="5">
-      <p><strong>Founder &amp; Software Engineer</strong><br>15 production releases</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/resheno/landing-cropped.jpg" alt="Resheno home-services marketplace preview" width="100%">
-      <h2>Resheno</h2>
-      <img src="assets/icons/section-accent.svg" alt="" width="54" height="5">
-      <p><strong>Technical Co-Founder</strong><br>Pre-launch MVP</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">Beauty Ally is your skincare friend that helps you stop overthinking every product decision.</td>
-    <td valign="top">A home-services marketplace that connects customers with local professionals in Bulgaria.</td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>Stack:</strong><br><br>
-      <code>React Native</code> <code>Expo</code> <code>Go</code> <code>PostgreSQL</code> <code>Pub/Sub</code> <code>GCP</code> <code>AWS S3</code>
-    </td>
-    <td valign="top">
-      <strong>Stack:</strong><br><br>
-      <code>Go/chi</code> <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>GCP</code> <code>AWS S3</code>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p>
-        <a href="https://apps.apple.com/ua/app/beauty-ally/id6749963321"><img alt="App Store" src="https://img.shields.io/badge/App_Store-30363D?style=flat-square&amp;logo=apple&amp;logoColor=white"></a>
-        <a href="https://play.google.com/store/apps/details?id=com.sycrafted.beautyai"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-30363D?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a>
-        <a href="https://github.com/alexprimak24/beauty-ally-mobile"><img alt="Source code" src="https://img.shields.io/badge/Source-30363D?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
-      </p>
-      <p>
-        <a href="https://www.tiktok.com/@yourbeautyally"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-30363D?style=flat-square&amp;logo=tiktok&amp;logoColor=white" height="16"></a>
-        <a href="https://www.youtube.com/@yourbeautyally"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-30363D?style=flat-square&amp;logo=youtube&amp;logoColor=white" height="16"></a>
-        <a href="https://www.instagram.com/yourbeautyally/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-30363D?style=flat-square&amp;logo=instagram&amp;logoColor=white" height="16"></a>
-      </p>
-    </td>
-    <td valign="top">
-      <p>
-        <a href="assets/resheno/landing.jpg"><img alt="Screenshot 1" src="https://img.shields.io/badge/Screenshot_1-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
-        <a href="assets/resheno/admin-dashboard.jpg"><img alt="Screenshot 2" src="https://img.shields.io/badge/Screenshot_2-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
-        <a href="assets/resheno/professionals.jpg"><img alt="Screenshot 3" src="https://img.shields.io/badge/Screenshot_3-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
-        <a href="assets/resheno/professional-profile.jpg"><img alt="Screenshot 4" src="https://img.shields.io/badge/Screenshot_4-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
-        <a href="assets/resheno/account-dashboard.jpg"><img alt="Screenshot 5" src="https://img.shields.io/badge/Screenshot_5-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- GitHub blocks custom CSS. These two image cards preserve the approved design without table borders. -->
+<p align="center">
+  <a href="https://apps.apple.com/ua/app/beauty-ally/id6749963321"><img src="assets/cards/beauty-ally.png" width="49%" alt="Beauty Ally - Founder and Software Engineer, 15 production releases. Your skincare friend that helps you stop overthinking every product decision. Tech: React Native, Expo, Go, PostgreSQL, Pub/Sub, GCP, AWS S3."></a><a href="assets/resheno/landing.jpg"><img src="assets/cards/resheno.png" width="49%" alt="Resheno - Technical Co-Founder, pre-launch MVP. Home-services marketplace connecting customers with professionals in Bulgaria. Tech: Go/chi, Next.js, TypeScript, PostgreSQL, GCP, AWS S3."></a>
+</p>
+
+<!-- All the links below are independent, clickable links, unlike buttons drawn into a single image. -->
+<p align="center">
+  <strong>Beauty Ally</strong><br>
+  <a href="https://apps.apple.com/ua/app/beauty-ally/id6749963321"><img alt="App Store" src="https://img.shields.io/badge/App_Store-30363D?style=flat-square&amp;logo=apple&amp;logoColor=white"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.sycrafted.beautyai"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-30363D?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a>
+  <a href="https://github.com/alexprimak24/beauty-ally-mobile"><img alt="Source code" src="https://img.shields.io/badge/Source-30363D?style=flat-square&amp;logo=github&amp;logoColor=white"></a><br>
+  <a href="https://www.tiktok.com/@yourbeautyally"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-30363D?style=flat-square&amp;logo=tiktok&amp;logoColor=white" height="17"></a>
+  <a href="https://www.youtube.com/@yourbeautyally"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-30363D?style=flat-square&amp;logo=youtube&amp;logoColor=white" height="17"></a>
+  <a href="https://www.instagram.com/yourbeautyally/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-30363D?style=flat-square&amp;logo=instagram&amp;logoColor=white" height="17"></a>
+</p>
+
+<p align="center">
+  <strong>Resheno screenshots</strong><br>
+  <a href="assets/resheno/landing.jpg"><img alt="Screenshot 1" src="https://img.shields.io/badge/Screenshot_1-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
+  <a href="assets/resheno/admin-dashboard.jpg"><img alt="Screenshot 2" src="https://img.shields.io/badge/Screenshot_2-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
+  <a href="assets/resheno/professionals.jpg"><img alt="Screenshot 3" src="https://img.shields.io/badge/Screenshot_3-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
+  <a href="assets/resheno/professional-profile.jpg"><img alt="Screenshot 4" src="https://img.shields.io/badge/Screenshot_4-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
+  <a href="assets/resheno/account-dashboard.jpg"><img alt="Screenshot 5" src="https://img.shields.io/badge/Screenshot_5-30363D?style=flat-square&amp;logo=googlephotos&amp;logoColor=white"></a>
+</p>
 
 ## Open Source
 
