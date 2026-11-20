@@ -5,7 +5,7 @@
 🟢 **Open to Work** - Backend, Full-Stack & Product Engineering roles  
 📍 Sofia, Bulgaria · Open to remote opportunities and relocation
 
-I'm a **product-minded software engineer** who enjoys building things end to end, from understanding the problem to designing the system, writing the code, and shipping it to real users.
+I'm a **product-minded software engineer** who enjoys building and maintaining products end to end, from understanding the problem to designing the system, writing the code, shipping it to real users, and continuously improving it.
 
 ## Connect with me
 
@@ -53,7 +53,7 @@ I'm a **product-minded software engineer** who enjoys building things end to end
 
 ## Open Source
 
-- <a href="https://github.com/FuelLabs/sway-playground/pull/83"><img src="assets/icons/git-merge.png" alt="Merged pull request" width="18" height="18"></a> **[Fuel Labs - Sway Playground - Dark Theme (PR #83)](https://github.com/FuelLabs/sway-playground/pull/83)** - added shared theme state, system-preference detection, and dark-theme support for the editor and UI.
+- <a href="https://github.com/FuelLabs/sway-playground/pull/83"><img src="assets/icons/git-merge.png" alt="Merged pull request" width="18" height="18"></a> **[Fuel Labs - Sway Playground - Dark Theme (PR #83)](https://github.com/FuelLabs/sway-playground/pull/83)** - implemented dark-theme support for the editor and UI, including shared theme state and automatic system-preference detection.
 
 ## Tech Stack
 
