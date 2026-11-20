@@ -25,7 +25,7 @@ I'm a **product-minded software engineer** who enjoys building things end to end
       <a href="https://apps.apple.com/ua/app/beauty-ally/id6749963321"><img src="assets/beauty-ally-preview.jpg" alt="Beauty Ally app preview" width="100%"></a>
       <h3><a href="https://apps.apple.com/ua/app/beauty-ally/id6749963321">Beauty Ally</a></h3>
       <p>Your skincare friend that helps you to stop overthinking every product decision.</p>
-      <p><strong>Stack:</strong> <code>React Native</code> <code>Expo</code> <code>Go</code> <code>PostgreSQL</code> <code>Pub/Sub</code> <code>GCP</code> <code>AWS S3</code></p>
+      <p><strong>Stack:</strong> <code>React Native</code> <code>Expo</code> <code>Go\Gin</code> <code>PostgreSQL</code> <code>Pub/Sub</code> <code>GCP</code> <code>AWS S3</code></p>
       <p>
         <a href="https://apps.apple.com/ua/app/beauty-ally/id6749963321"><img alt="App Store" src="https://img.shields.io/badge/App_Store-262C33?style=flat-square&amp;logo=apple&amp;logoColor=white"></a>
         <a href="https://play.google.com/store/apps/details?id=com.sycrafted.beautyai"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-262C33?style=flat-square&amp;logo=googleplay&amp;logoColor=white"></a>
@@ -37,7 +37,7 @@ I'm a **product-minded software engineer** who enjoys building things end to end
     </td>
     <td width="50%" valign="top">
       <a href="assets/resheno/landing.jpg"><img src="assets/resheno-preview.jpg" alt="Resheno home-services marketplace preview" width="100%"></a>
-      <h3><a href="assets/resheno/landing.jpg">Resheno MVP</a></h3>
+      <h3><a href="assets/resheno/landing.jpg">Resheno</a></h3>
       <p>A home-services marketplace that connects customers with local professionals in Bulgaria.</p>
       <p><strong>Stack:</strong> <code>Go/chi</code> <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>GCP</code> <code>AWS S3</code></p>
       <p>
