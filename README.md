@@ -1,8 +1,8 @@
 ## Hi, I'm Alex 👋
 
-Creator of [Beauty Ally](https://github.com/alexprimak24/beauty-ally-mobile).
+Creator of [Beauty Ally](https://apps.apple.com/ua/app/beauty-ally/id6749963321).
 
-🟢 **Open to Work** - Software Engineering roles · [My CV](assets/cv.pdf)
+🟢 **Open to Work** — Software Engineering roles · [My CV](assets/cv.pdf)
 
 Find me on [YouTube](https://youtube.com/@alexprimak993), [Twitter](https://x.com/alexprimak24), and [LinkedIn](https://www.linkedin.com/in/oleksandr-prymak-dev/).
 
@@ -10,7 +10,8 @@ Find me on [YouTube](https://youtube.com/@alexprimak993), [Twitter](https://x.co
 
 ## Things I'm proud of
 
-- [**Beauty Ally**](https://github.com/alexprimak24/beauty-ally-mobile) — Your skincare friend in your pocket.
+- [**Beauty Ally**](https://apps.apple.com/ua/app/beauty-ally/id6749963321) — Your skincare friend in your pocket.
+  - [Source - Frontend](https://github.com/alexprimak24/beauty-ally-mobile)
   - [App Store](https://apps.apple.com/ua/app/beauty-ally/id6749963321)
   - [Google Play](https://play.google.com/store/apps/details?id=com.sycrafted.beautyai)
   - [TikTok](https://www.tiktok.com/@yourbeautyally)
