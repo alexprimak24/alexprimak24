@@ -4,7 +4,7 @@ Creator of [Beauty Ally](https://apps.apple.com/ua/app/beauty-ally/id6749963321)
 
 🟢 **Open to Work** - Software Engineering roles · [My CV](assets/cv.pdf)
 
-Find me on [YouTube](https://youtube.com/@alexprimak993), [Twitter](https://x.com/alexprimak24), and [LinkedIn](https://www.linkedin.com/in/oleksandr-prymak-dev/).
+Find me on [YouTube](https://youtube.com/@alexprimak993), [X](https://x.com/alexprimak24), and [LinkedIn](https://www.linkedin.com/in/oleksandr-prymak-dev/).
 
 ---
 
